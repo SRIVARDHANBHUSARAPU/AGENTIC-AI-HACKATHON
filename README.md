@@ -1,3 +1,4 @@
+[RecruitGPT-An-Inspectable-AI-Recruitment-Agent.pptx](https://github.com/user-attachments/files/29668999/RecruitGPT-An-Inspectable-AI-Recruitment-Agent.pptx)
 <img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/4c507235-efe6-4f76-8630-19c05620c211" /><img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/56696734-ea1a-4793-8372-d349e7b2095a" />
 <img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/e11562f6-d805-48b1-8b86-4648f05a7222" />
 <img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/8a4f7027-164b-4d38-866f-265cbbc3beca" />
