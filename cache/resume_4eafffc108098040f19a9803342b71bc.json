@@ -1,0 +1,32 @@
+{
+  "candidate_name": "",
+  "skills": [
+    "Python",
+    "FastAPI",
+    "SQL",
+    "REST APIs",
+    "Git & GitHub",
+    "Object-Oriented Programming (OOP)",
+    "Data Structures & Algorithms",
+    "JSON",
+    "API Testing",
+    "Linux Basics",
+    "LangChain",
+    "LangGraph",
+    "Google Gemini API",
+    "Docker",
+    "ChromaDB",
+    "Vector Databases",
+    "RAG (Retrieval-Augmented Generation)",
+    "AWS Basics",
+    "Debugging",
+    "Performance Optimization",
+    "AI Agents",
+    "Machine Learning",
+    "Programming Fundamentals"
+  ],
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "certifications": []
+}
