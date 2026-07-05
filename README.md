@@ -235,3 +235,11 @@ AGENTIC-AI-HACKATHON
 ## 📜 License
 
 This project was developed for the Agentic AI Hackathon to demonstrate how AI-powered multi-agent systems can streamline and enhance the recruitment process.
+
+
+https://github.com/user-attachments/assets/76cdfb51-2832-4253-9419-058d88752251
+
+
+
+
+
