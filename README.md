@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/4c507235-efe6-4f76-8630-19c05620c211" /><img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/56696734-ea1a-4793-8372-d349e7b2095a" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/e11562f6-d805-48b1-8b86-4648f05a7222" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/8a4f7027-164b-4d38-866f-265cbbc3beca" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/766b99ab-5d30-46e8-ae39-47a2a0d79d8a" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/3b2de2f9-13df-4ba3-9ac2-b2577510722d" />
+
 # AGENTIC-AI-HACKATHON
 HireGenie AI is a multi-agent recruitment assistant that uses LangGraph, RAG, and Google Gemini to analyze resumes, match candidates with job descriptions, generate interview questions, recommend salaries, and provide human-approved hiring decisions through specialized AI agents.
 # 🤖 HireGenie AI
